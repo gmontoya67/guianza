@@ -64,12 +64,14 @@
     & .title {
       font-family: 'arial-black';
       text-transform: uppercase;
+      color: rgb(228, 14, 14);
     }
   
     & .description {
       line-height: 1.7;
       margin: 1rem 0 1.5rem;
-      font-size: 0.8rem;
+      font-size: 1rem;
+      color: rgb(15, 15, 15);
     }
   
     & button {
