@@ -70,12 +70,12 @@
 
     & .title2 {
       font-family: 'Aboreto';font-size: 22px;
-     color: rgb(228, 14, 14);
+     color: rgb(228, 214, 14);
       position: absolute;
-      top: 12px;
+      top: 120px;
       left: 12px;
       right: 0;
-      width: 2000px;
+      width: 200px;
       height: 100px;
     }
   
