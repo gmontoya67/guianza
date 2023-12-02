@@ -82,7 +82,7 @@
     & .absolute {
       position: absolute;
       top: 10px;
-      left: 10px;
+      left: 100px;
       right: 0;
       width: 600px;
       height: 200px;
