@@ -66,6 +66,12 @@
       text-transform: uppercase;
       color: rgb(228, 14, 14);
     }
+
+    & .title2 {
+      font-family: 'arial-black';
+      text-transform: uppercase;
+      color: rgb(228, 14, 14);
+    }
   
     & .description {
       line-height: 1.7;
