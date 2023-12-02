@@ -66,6 +66,7 @@
       font-size: 32px;
       text-transform: uppercase;
       color: rgb(228, 14, 14);
+      width: 600px;
     }
 
     & .title2 {
