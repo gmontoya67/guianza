@@ -69,9 +69,7 @@
 
     & .title2 {
       font-family: 'Aboreto';font-size: 22px;
-      
-      text-transform: uppercase;
-      color: rgba(228, 14, 14, 0.144);
+     color: rgb(228, 14, 14);
       position: absolute;
       top: 12px;
       left: 500px;
