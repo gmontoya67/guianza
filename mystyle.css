@@ -62,7 +62,8 @@
     display: none;
   
     & .title {
-      font-family: 'arial-black';
+      font-family: 'Aboreto';
+      font-size: 22px;
       text-transform: uppercase;
       color: rgb(228, 14, 14);
     }
