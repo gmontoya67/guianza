@@ -69,8 +69,9 @@
 
     & .title2 {
       font-family: 'arial-black';
+      font-size: 3rem;
       text-transform: uppercase;
-      color: rgb(228, 14, 14);
+      color: rgb(224, 228, 14);
     }
   
     div.absolute {
