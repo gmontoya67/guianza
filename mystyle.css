@@ -63,14 +63,14 @@
   
     & .title {
       font-family: 'Aboreto';
-      font-size: 32px;
+      font-size: 18px;
       text-transform: uppercase;
       color: rgb(228, 14, 14);
       width: 600px;
     }
 
     & .title2 {
-    font-family: 'Aboreto';font-size: 18px;
+    font-family: 'Aboreto';font-size: 24px;
      color: rgb(228, 214, 14);
       position: absolute;
       top: 12px;
