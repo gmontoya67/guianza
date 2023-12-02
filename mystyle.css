@@ -63,7 +63,7 @@
   
     & .title {
       font-family: 'Aboreto';
-      font-size: 52px;
+      font-size: 32px;
       text-transform: uppercase;
       color: rgb(228, 14, 14);
     }
@@ -75,7 +75,7 @@
       top: 12px;
       left: 12px;
       right: 0;
-      width: 250px;
+      width: 450px;
       height: 100px;
     }
   
@@ -88,7 +88,7 @@
       height: 100px;
       border: 3px solid #73AD21;
       font-family: 'Aboreto';font-size: 22px;
-     color: rgb(228, 214, 14);
+     color: rgb(14, 107, 228);
     }
 
 
