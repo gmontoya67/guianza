@@ -73,6 +73,20 @@
       color: rgb(228, 14, 14);
     }
   
+    div.absolute {
+      position: absolute;
+      top: 120px;
+      left: 500px;
+      right: 0;
+      width: 200px;
+      height: 100px;
+      border: 3px solid #73AD21;
+    }
+
+
+
+
+
     & .description {
       line-height: 1.7;
       margin: 1rem 0 1.5rem;
