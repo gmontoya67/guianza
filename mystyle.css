@@ -72,14 +72,14 @@
       font-family: 'Aboreto';font-size: 22px;
      color: rgb(228, 214, 14);
       position: absolute;
-      top: 120px;
+      top: 12px;
       left: 12px;
       right: 0;
-      width: 200px;
+      width: 20px;
       height: 100px;
     }
   
-    div.absolute {
+    & .absolute {
       position: absolute;
       top: 120px;
       left: 500px;
